@@ -1,0 +1,211 @@
+
+.image1 {
+    height: 100px;
+    width: 120px;
+    border-radius: 10px;
+}
+
+.bg {
+    background-image: url("https://img.freepik.com/free-photo/top-view-camera-with-negatives-clock-plants_23-2148019262.jpg?w=740&t=st=1677218591~exp=1677219191~hmac=5445bae273b067c5c9e97fec440910d1a54d71112d3f6ef3e3b65667ced044eb");
+    background-size: cover;
+    height: 100vh;
+}
+
+#navitem1 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#navitem2 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#navitem3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#navitem4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#navitem5 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.heading1 {
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Roboto;
+    color: black;
+}
+
+.heading2 {
+    color: black;
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Serif;
+    margin-top: 20px;
+
+}
+
+.carousel1 {
+    height: 350px;
+    width: 350px;
+    border-radius: 20px;
+}
+
+.heading3 {
+    font-size: 15px;
+    margin-left: 30px;
+}
+
+.card1 {
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.image2 {
+    height: 200px;
+    width: 250px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.heading4 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.para1 {
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.image3 {
+    width: 350px;
+    height: 280px;
+    border-radius: 10px;
+
+}
+
+.heading5 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.heading6 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: cursive;
+}
+
+.bg2 {
+    background-color: #5A5B59;
+    border-radius: 10px;
+}
+
+.list-items {
+    color: #ffffff;
+    font-weight: 400;
+    list-style-type: circle;
+    padding: 10px;
+}
+
+.bg3 {
+    background: black;
+}
+
+.icon-container {
+    height: 40px;
+    width: 40px;
+    border-radius: 40px;
+    background-color: #ffffff;
+    padding: 9px;
+    padding-bottom: 3px;
+    padding-right: 0px;
+    margin-left: 10px;
+
+}
+
+.icon {
+    font-size: 25px;
+    color: #5A5B59;
+}
+
+.heading7 {
+    color: #0C9BED;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.heading8 {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.card3 {
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.heading9 {
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    width: 300px;
+}
+
+.box1 {
+    height: 30px;
+    width: 400px;
+    border-width: 2px;
+    border-style: solid;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-top-width: 0px;
+}
+
+.button1 {
+    background-color: #0CD9ED;
+    color: #ffffff;
+    height: 30px;
+    width: 100px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.image4 {
+    height: 80px;
+    width: 100px;
+    margin-top: 30px;
+    ;
+    border-radius: 10px;
+}
+
+.errormsg {
+    color: red;
+    font-size: 15px;
+}
+
+.submit {
+    color: #1dc2f0;
+    font-size: 18px;
+    font-weight: 500;
+    width: 400px;
+    text-align: center;
+    margin-left: 10px;
+}
